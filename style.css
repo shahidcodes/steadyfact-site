@@ -1,0 +1,9 @@
+body { margin: 0; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; color: #1d2b36; background: #f6f8fa; }
+header { background: #06283d; color: #fff; padding: 48px 24px 32px; text-align: center; }
+header h1 { margin: 0 0 8px; font-size: 2.2em; }
+.tag { margin: 0; color: #cfe0ea; }
+main { max-width: 760px; margin: 0 auto; padding: 16px 24px 40px; }
+h2 { color: #06283d; border-bottom: 3px solid #ff7b54; display: inline-block; padding-bottom: 2px; }
+a { color: #c4471f; }
+code { background: #e8edf1; padding: 1px 5px; border-radius: 4px; font-size: .9em; }
+footer { text-align: center; padding: 24px; color: #5b6b77; font-size: .9em; border-top: 1px solid #dde3e8; }
